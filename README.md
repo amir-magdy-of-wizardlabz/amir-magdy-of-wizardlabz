@@ -6,7 +6,7 @@
 
 # Hi there, I'm Amir Magdy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
-### Backend Consultant | Event-Driven Systems | RabbitMQ Expert | ElasticSearch with .nt
+### Backend Consultant | Event-Driven Systems | RabbitMQ Expert | ElasticSearch with .net
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirmagdy/)  
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/amirm)  

@@ -22,7 +22,7 @@
 - 🌱 **Current Focus**:  
   - Microservices & ERPNext integrations  
   - eCommerce & high-performance public cloud deployments  
-  - Chrome extensions for fun (bending the web’s rules)
+  - Chrome extensions for fun (bending the web rules)
 
 - 🎉 **Fun Facts**:  
   - Lifelong LEGO enthusiast — problem-solving one brick at a time!  

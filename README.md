@@ -28,6 +28,7 @@
   - Lifelong LEGO enthusiast — problem-solving one brick at a time!  
   - Gamer at heart, especially open-world & strategy titles  
   - Enjoy teaching and mentoring others in event-driven architecture and microservices
+  - Love to travel 🇪🇬 🇶🇦 🇧🇭 🇦🇪 🇹🇷 🇬🇷 🇮🇹 🇻🇦 🇲🇾 🇦🇺 🇯🇵 🇺🇸
 
 ---
 

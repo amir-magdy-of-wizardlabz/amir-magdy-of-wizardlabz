@@ -28,7 +28,20 @@
   - Lifelong LEGO enthusiast — problem-solving one brick at a time!  
   - Gamer at heart, especially open-world & strategy titles  
   - Enjoy teaching and mentoring others in event-driven architecture and microservices
-  - Love to travel 🇪🇬 🇶🇦 🇧🇭 🇦🇪 🇹🇷 🇬🇷 🇮🇹 🇻🇦 🇲🇾 🇦🇺 🇯🇵 🇺🇸
+  -  Love to travel
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" alt="🇪🇬" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f6-1f1e6.svg" alt="🇶🇦" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1ed.svg" alt="🇧🇭" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1ea.svg" alt="🇦🇪" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f9-1f1f7.svg" alt="🇹🇷" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f7.svg" alt="🇬🇷" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f9.svg" alt="🇮🇹" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fb-1f1e6.svg" alt="🇻🇦" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fe.svg" alt="🇲🇾" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fa.svg" alt="🇦🇺" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg" alt="🇯🇵" width="20" /> 
+    <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" alt="🇺🇸" width="20" /> 
+
 
 ---
 

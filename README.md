@@ -20,8 +20,10 @@
   Over two decades in the software development world, starting with Classic ASP in 1999. Nowadays, I focus on .NET, RabbitMQ, Elasticsearch, and performance profiling.
 
 - 🌱 **Current Focus**:  
-  - Microservices & ERPNext integrations  
-  - eCommerce & high-performance public cloud deployments  
+  - Building winning teams
+  - Ai Backed Services 
+  - Microservices, ERP Integration, and high-performance public cloud deployments  
+  - eCommerce & Sales and ops is my preferred vertical  
   - Chrome extensions for fun (bending the web rules)
 
 - 🎉 **Fun Facts**:  

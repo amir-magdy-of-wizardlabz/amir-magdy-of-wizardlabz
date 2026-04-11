@@ -19,7 +19,7 @@
 - 🔭 **Professional Experience**:  
   Over two decades in the software development world, starting with Classic ASP in 1999. Nowadays, I focus on .NET, RabbitMQ, Elasticsearch, and performance profiling.
 
-- 🌱 **Current Focus**:  
+- 🌱 **Current Focus Tech Focus / when I am not growing teams and Pushing Companies in AI Worlds**:  
   - Building winning teams
   - Ai Backed Services 
   - Microservices, ERP Integration, and high-performance public cloud deployments  

@@ -31,7 +31,12 @@ The systems behind your business, built to keep running.
 ## Open source
 
 - [**Kiahk**](https://github.com/amir-magdy-of-wizardlabz/kiahk) — exact Coptic Orthodox calendar arithmetic: Gregorian ↔ Coptic conversion, Coptic Easter via the Julian computus, fixed and moveable feasts. One canonical spec and shared test vectors, ported to 9 languages and published on npm, PyPI, NuGet, Maven Central, pub.dev, Packagist, Go, CocoaPods and SwiftPM, each with its own CI.
+- [**Frappe Event Bus**](https://github.com/wizardlabz/frappe-event-bus) — a native Frappe/ERPNext app that publishes durable, observable, replayable business events to RabbitMQ, Kafka or NATS. The open-source form of the ERP-to-store integration pattern above.
+- [**ERPNext MCP Server**](https://github.com/wizardlabz/erpnext-mcp-server) — lets AI assistants work with ERPNext data through the Model Context Protocol; this fork adds a deliberate, human-acknowledged guardrail before any delete, because ERPNext deletes are permanent.
 - [**EventDrivenApp**](https://github.com/amir-magdy-of-wizardlabz/EventDrivenApp) — a .NET 8 microservices template: three independently deployable services, isolated PostgreSQL databases, RabbitMQ messaging, one `docker compose up`. Used as a training tool for teams moving from a monolith to multi-team delivery.
+- [**Omada Traffic for Home Assistant**](https://github.com/amir-magdy-of-wizardlabz/ha-omada-traffic) — a Home Assistant integration that reads a TP-Link Omada controller and shows per-device, per-person and per-line internet usage against plan allowances.
+
+Most of my open-source work lives under the [**wizardlabz**](https://github.com/wizardlabz) organisation.
 
 ## Stack
 
